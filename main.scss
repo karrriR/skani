@@ -69,7 +69,7 @@ body > footer {
 .header {
     width: auto;
     height: 1080px;
-    background: url("../images/bg/bg_header.png") no-repeat;
+    background: url("/images/bg/bg_header.png") no-repeat;
     background-position: center center;
     background-size: cover;
     &__menu {
@@ -97,7 +97,7 @@ body > footer {
 .history-trouble {
     width: auto;
     height: 734px;
-    background: url("../images/bg/bg_section2.png") no-repeat;
+    background: url("/images/bg/bg_section2.png") no-repeat;
     background-position: center center;
     background-size: cover;
     position: relative;
